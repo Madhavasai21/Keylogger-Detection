@@ -41,7 +41,8 @@ pip install -r requirements.txt
 ### 3.Run the application
 
 ```
-streamlit run app.py
+python train.py
+python -m streamlit run app.py
 ```
 
 # Usage
