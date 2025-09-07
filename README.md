@@ -10,3 +10,5 @@ Keyloggers silently record keystrokes to steal sensitive data (passwords, bankin
 - 🎨 User-Friendly Interface – Built with Streamlit/Tkinter for easy visualization.
 - 📊 Detection Accuracy (~93%) with confusion matrix and performance analysis.
 - 🌍 Cross-Platform – Runs on Windows, Linux, and macOS.
+# Technologies Used
+- # Programming Language: Python 3.7+
