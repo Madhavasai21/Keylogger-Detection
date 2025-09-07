@@ -32,4 +32,15 @@ Keyloggers silently record keystrokes to steal sensitive data (passwords, bankin
 ```
 git clone https://github.com/Madhavasai21/Keylogger-Detection.git
 ```
+### 2.Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+### 3.Run the application
+
+```
+streamlit run app.py
+```
 
