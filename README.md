@@ -53,8 +53,12 @@ streamlit run app.py
 
 ---
 #### 
-This
+## Interface
 <img src="https://github.com/Madhavasai21/Keylogger-Detection/blob/main/images/Screenshot%202025-09-07%20114155.png" alt="Main interface"  width="400"/>
+
+---
+## Analysis Results
+<img src=""  width="400"/>
 
 ---
 
