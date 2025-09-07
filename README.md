@@ -27,7 +27,7 @@ Keyloggers silently record keystrokes to steal sensitive data (passwords, bankin
 
 ---
 # ⚙️ Installation & Setup
-## 1.Clone the repository
+### 1.Clone the repository
 
 ```
 git clone https://github.com/Madhavasai21/Keylogger-Detection.git
