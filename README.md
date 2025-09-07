@@ -44,3 +44,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+# Usage
+- Launch the application with streamlit run app.py.
+- Start monitoring system processes.
+- Suspicious activity triggers real-time alerts.
+- View logs of detected keyloggers in the logs/ folder.
+- Admins can terminate malicious processes from the dashboard.
+
